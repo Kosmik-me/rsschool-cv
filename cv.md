@@ -4,7 +4,7 @@
 * __Location:__ Solihorsk, Belarus
 * __Phone number:__ +375 33 362-74-86
 * __Email:__  prhg08@gmail.com
-* __Discord:__ Kosmik#4306
+* __Discord:__ Kosmik-me (Kosmik#4306)
 ***
 ## About me 
 dreamed of becoming a programmer at school, after 11 years the time came
