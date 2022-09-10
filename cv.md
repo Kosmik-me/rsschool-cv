@@ -15,3 +15,4 @@ const multiply = (a,b) => a * b;
 * Belarusian State Technological University, Faculty of Chemical Technology and Engineering
 # English
 * A1< 
+***
